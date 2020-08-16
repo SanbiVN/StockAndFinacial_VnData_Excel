@@ -1,5 +1,6 @@
 # StockAndFinacial_VnData_Excel
- Excel: Dữ liệu trực tuyến chứng khoán và tài chính Việt Nam
+Ứng dụng lấy dữ liệu trực tuyến chứng khoán và tài chính.
+Từ nhiều nguồn dữ liệu có uy tín và chất lượng như: VCBs, FPTs, VNDirect, Cafef, TVSI, VCSC, ...
 
 Ứng dụng Lấy dữ liệu Chứng Khoán và Tài chính trực tuyến vào bảng tính Excel thu thập dữ liệu bao gồm:
 1. Cập nhật liên tục các bảng giá trực tuyến: HOSE, UPCOM, VN30, HNX30, ... , hoặc các mã tự chọn.​
