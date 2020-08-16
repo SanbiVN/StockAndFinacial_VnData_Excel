@@ -19,4 +19,5 @@
 Ứng dụng chỉ hoạt động trên Window, phiên bản Office 2010 trở về sau.
 
 Liên hệ Facebook Messenger: https://m.me/he.sanbi
+
 Đăng câu hỏi tại: https://www.giaiphapexcel.com/diendan/threads/150443/
