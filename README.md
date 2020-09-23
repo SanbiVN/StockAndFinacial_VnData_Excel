@@ -20,7 +20,14 @@ Cấu trúc dữ liệu từ các nguồn tuy khác nhau nhưng sẽ được đ
 - Giao dịch cổ đông lớn
 ---------------------------------------------------
 Ứng dụng chỉ hoạt động trên Window, phiên bản Office 2010 trở về sau.
-
 Liên hệ Facebook Messenger: https://m.me/he.sanbi
-
 Đăng câu hỏi tại: https://www.giaiphapexcel.com/diendan/threads/150443/
+
+---------------------------------------------------
+Lưu ý: 
+1. Khi sử dụng ứng dụng, nếu thực hiện lấy dữ liệu mà không có bất kì phản ứng nào trả về thì hãy thực hiện cập nhật TLS cho Window 
+
+Truy cập đường dẫn bên dưới để nhận được hướng dẫn cập nhật TLS chi tiết.
+https://support.microsoft.com/en-us/help/3140245/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-wi
+
+2. Đối với máy tính ở Công ty, ứng dụng có thể không hoạt động được. Có thể do chặn kết nối, hoặc thiếu thư viện để ứng dụng hoạt động.
