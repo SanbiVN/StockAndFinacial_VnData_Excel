@@ -21,6 +21,7 @@ Cấu trúc dữ liệu từ các nguồn tuy khác nhau nhưng sẽ được đ
 ---------------------------------------------------
 Ứng dụng chỉ hoạt động trên Window, phiên bản Office 2010 trở về sau.
 Liên hệ Facebook Messenger: https://m.me/he.sanbi
+Zalo: 0384170514
 Đăng câu hỏi tại: https://www.giaiphapexcel.com/diendan/threads/150443/
 
 ---------------------------------------------------
