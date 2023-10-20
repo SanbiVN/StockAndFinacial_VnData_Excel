@@ -1,4 +1,4 @@
-# StockAndFinancial_VnData_Excel
+# Excel Stock v Finance
 Ứng dụng Excel lấy dữ liệu trực tuyến chứng khoán và tài chính tốc độ tải siêu nhanh.
 Từ nhiều nguồn dữ liệu có uy tín và chất lượng như: VietStock, VCBs, FPTs, VNDirect, Cafef, TVSI, VCSC, ...
 
