@@ -1,4 +1,5 @@
 # Excel Stock v Finance
+[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/StockAndFinacial_VnData_Excel/total.svg)]()
 Ứng dụng Excel tải dữ liệu trực tuyến chứng khoán và tài chính.
 Từ nhiều nguồn dữ liệu có uy tín và chất lượng như: VietStock, VCBs, FPTs, VNDirect, Cafef, TVSI, VCSC, ...
 
