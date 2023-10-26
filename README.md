@@ -1,5 +1,7 @@
-# StockAndFinacial_VnData_Excel
-Ứng dụng Excel lấy dữ liệu trực tuyến chứng khoán và tài chính tốc độ tải siêu nhanh.
+# Excel Stock v Finance
+[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/StockAndFinacial_VnData_Excel/total.svg)]()
+
+Ứng dụng Excel tải dữ liệu trực tuyến chứng khoán và tài chính.
 Từ nhiều nguồn dữ liệu có uy tín và chất lượng như: VietStock, VCBs, FPTs, VNDirect, Cafef, TVSI, VCSC, ...
 
 Cấu trúc dữ liệu từ các nguồn tuy khác nhau nhưng sẽ được đồng bộ để dễ dàng hơn trong việc ứng dụng phân tích dữ liệu.
@@ -29,7 +31,7 @@ Zalo: 0384170514.
 
 ---------------------------------------------------
 Lưu ý: 
-1. Khi sử dụng ứng dụng, nếu thực hiện lấy dữ liệu mà không có bất kì phản ứng nào trả về thì hãy thực hiện cập nhật TLS cho Window 
+1. Khi sử dụng ứng dụng, nếu thực hiện lấy dữ liệu mà không có bất kì phản ứng nào trả về thì hãy thực hiện cập nhật TLS cho Window (Chỉ windows 7, 8 và 10)
 
 Truy cập đường dẫn bên dưới để nhận được hướng dẫn cập nhật TLS chi tiết.
 https://support.microsoft.com/en-us/help/3140245/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-wi
@@ -39,5 +41,5 @@ Hoặc cài đặt từ ứng dụng Internet Explorer:
 ![Alt text](https://raw.githubusercontent.com/SanbiVN/StockAndFinacial_VnData_Excel/master/tls-ssl-protocols.png "Cài đặt TLS từ ứng dụng Internet Explorer")
 
 2. Đối với máy tính ở Công ty, ứng dụng có thể không hoạt động được. Có thể do chặn kết nối, hoặc thiếu thư viện để ứng dụng hoạt động.
-3. Khởi động lại Router Kết nối Internet
+
 
