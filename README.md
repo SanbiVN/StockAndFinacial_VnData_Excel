@@ -5,10 +5,10 @@
 Từ nhiều nguồn dữ liệu có uy tín và chất lượng như: VietStock, VCBs, FPTs, VNDirect, Cafef, TVSI, VCSC, ...
 
 ### Tải xuống:
-[Dữ liệu tài chính xFINN v2.01](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xFINN/xFINN_v2.0.1.xlsm)
-[Dữ liệu chứng khoán xSTOCK_v2.0.1](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCK/xSTOCK_v2.0.1.xlsm)
-[Full bảng giá xSTOCKFULL](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCKFULL/xSTOCKivm_v2.0.xlsm)
-[Quản lý danh mục xSTOCKivm_v2.0](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCKivm/xSTOCKivm_v2.0.xlsm)
+* [Dữ liệu tài chính xFINN v2.01](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xFINN/xFINN_v2.0.1.xlsm)
+* [Dữ liệu chứng khoán xSTOCK_v2.0.1](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCK/xSTOCK_v2.0.1.xlsm)
+* [Full bảng giá xSTOCKFULL](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCKFULL/xSTOCKivm_v2.0.xlsm)
+* [Quản lý danh mục xSTOCKivm_v2.0](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCKivm/xSTOCKivm_v2.0.xlsm)
 
 
 Cấu trúc dữ liệu từ các nguồn tuy khác nhau nhưng sẽ được đồng bộ để dễ dàng hơn trong việc ứng dụng phân tích dữ liệu.
