@@ -6,10 +6,10 @@ Từ nhiều nguồn dữ liệu có uy tín và chất lượng như: VietStock
 Cấu trúc dữ liệu từ các nguồn tuy khác nhau nhưng sẽ được đồng bộ để dễ dàng hơn trong việc ứng dụng phân tích dữ liệu.
 
 ### Tải xuống:
-* [Dữ liệu tài chính - xFINN v2.0.1](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xFINN/xFINN_v2.0.1.xlsm)
-* [Dữ liệu chứng khoán - xSTOCK_v2.0.2](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCK/xSTOCK_v2.0.2.xlsm)
-* [Full bảng giá - xSTOCKFULL](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xStockFull/xStockFull_v2.0.xlsm)
-* [Danh mục đầu tư - xSTOCKivm_v2.0](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCKivm/xSTOCKivm_v2.0.xlsm)
+* [xFINN v2.0.1   - Dữ liệu tài chính](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xFINN/xFINN_v2.0.1.xlsm)
+* [xSTOCK_v2.0.2  - Dữ liệu chứng khoán](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCK/xSTOCK_v2.0.2.xlsm)
+* [xSTOCKFULL     - Full bảng giá](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xStockFull/xStockFull_v2.0.xlsm)
+* [xSTOCKivm_v2.0 - Danh mục đầu tư](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCKivm/xSTOCKivm_v2.0.xlsm)
 
 
 
