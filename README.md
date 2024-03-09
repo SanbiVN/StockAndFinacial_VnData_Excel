@@ -31,10 +31,8 @@ Cấu trúc dữ liệu từ các nguồn tuy khác nhau nhưng sẽ được đ
 Ứng dụng chỉ hoạt động trên Window, phiên bản Office 2010 trở về sau.
 
 Liên hệ Facebook Messenger: https://m.me/he.sanbi.
-
 Zalo: 0384170514.
-
-Đăng câu hỏi tại: https://www.giaiphapexcel.com/diendan/threads/150443/.
+![zalo me_g_gqqttr526](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/assets/58664571/fad57d67-1125-43b3-9e4f-773db9a58975)
 
 ---------------------------------------------------
 Lưu ý: 
