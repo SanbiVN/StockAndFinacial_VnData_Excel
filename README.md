@@ -28,11 +28,14 @@ Cấu trúc dữ liệu từ các nguồn tuy khác nhau nhưng sẽ được đ
 - Giao dịch NĐTNN
 - Giao dịch cổ đông lớn
 ---------------------------------------------------
-Ứng dụng chỉ hoạt động trên Window, phiên bản Office 2010 trở về sau.
+Ứng dụng chỉ hoạt động trên Window, phiên bản Office 2010 trở về sau. \
 
 Liên hệ Facebook Messenger: https://m.me/he.sanbi.
-Zalo: 0384170514.
+Zalo: 0384170514. \
 ![zalo me_g_gqqttr526](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/assets/58664571/fad57d67-1125-43b3-9e4f-773db9a58975)
+
+Tham gia nhóm để nhận hỗ trợ nhanh \
+![z6171817484384_fd0694b41d35a8bc1764dbd1d20843bf](https://github.com/user-attachments/assets/5f5387ed-189e-434f-9f0b-a03ab5517120)
 
 ---------------------------------------------------
 Lưu ý: 
