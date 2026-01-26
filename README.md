@@ -5,7 +5,7 @@
 Từ nhiều nguồn dữ liệu có uy tín và chất lượng như: VietStock, VCBs, FPTs, VNDirect, Cafef, TVSI, VCSC, FireAnt, ...
 Cấu trúc dữ liệu từ các nguồn tuy khác nhau nhưng sẽ được đồng bộ để dễ dàng hơn trong việc ứng dụng phân tích dữ liệu.
 
-### Tải xuống:
+### Tải xuống (Mật khẩu VBA là 1):
 * [xFINN   - Dữ liệu tài chính (Chưa tải được)](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xFINN/xFINN_v2.0.1.xlsm)
 * [xSTOCK  - Dữ liệu chứng khoán](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCK/xSTOCK_v2.0.10.xlsm)
 * [xSTOCKFULL     - Full bảng giá](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xStockFull/xStockFull_v2.19.xlsm)
