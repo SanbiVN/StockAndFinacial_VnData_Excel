@@ -7,7 +7,7 @@ Cấu trúc dữ liệu từ các nguồn tuy khác nhau nhưng sẽ được đ
 
 ### Tải xuống:
 * [xFINN   - Dữ liệu tài chính (Chưa tải được)](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xFINN/xFINN_v2.0.1.xlsm)
-* [xSTOCK  - Dữ liệu chứng khoán](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCK/xSTOCK_v2.0.9.xlsm)
+* [xSTOCK  - Dữ liệu chứng khoán](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCK/xSTOCK_v2.0.10.xlsm)
 * [xSTOCKFULL     - Full bảng giá](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xStockFull/xStockFull_v2.19.xlsm)
 * [xSTOCKivm - Danh mục đầu tư](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/releases/download/xSTOCKivm/xSTOCKivm_v2.0.xlsm)
 
