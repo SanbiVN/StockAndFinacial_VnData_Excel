@@ -37,17 +37,4 @@ Zalo: 0384170514. \
 Tham gia nhóm để nhận hỗ trợ nhanh \
 ![z6171817484384_fd0694b41d35a8bc1764dbd1d20843bf](https://github.com/user-attachments/assets/5f5387ed-189e-434f-9f0b-a03ab5517120)
 
----------------------------------------------------
-Lưu ý: 
-1. Khi sử dụng ứng dụng, nếu thực hiện lấy dữ liệu mà không có bất kì phản ứng nào trả về thì hãy thực hiện cập nhật TLS cho Window (Chỉ windows 7, 8 và 10)
-
-Truy cập đường dẫn bên dưới để nhận được hướng dẫn cập nhật TLS chi tiết.
-https://support.microsoft.com/en-us/help/3140245/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-wi
-
-Hoặc cài đặt từ ứng dụng Internet Explorer (Chỉ dành cho Windows 10 trở về trước có IE):
-
-![tls-ssl-protocols](https://github.com/SanbiVN/StockAndFinacial_VnData_Excel/assets/58664571/f50187b1-bff0-48b5-8aa1-3020135ebf2a)
-
-2. Đối với máy tính ở Công ty, ứng dụng có thể không hoạt động được. Có thể do chặn kết nối, hoặc thiếu thư viện để ứng dụng hoạt động.
-
 
